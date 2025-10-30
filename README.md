@@ -21,9 +21,17 @@ Los resultados se presentan con **gráficos de barras** para una lectura rápida
 ---
 
 ## 🗂️ Graficas
+<figure>
+  <figcaption>Top 10 productos con mayor rentabilidad 💵</figcaption>
+  <img src="Img/productos.png" alt="Top 10 productos por rentabilidad" width="800">
+</figure>
 
-Muestra los 10 productos con mayor rentabilidad 💵
+<figure>
+  <figcaption>Top 10 empleados más efectivos (ventas).</figcaption>
+  <img src="Img/Empleados.png" alt="Top 10 empleados por número de ventas" width="800">
+</figure>
 
-Muestra los 10 empleados mas efectivos, los que realiazron mas ventas
-
-Muestra los 10 empleados mas efectivos, los que realiazron mayor en su total recaudado💰
+<figure>
+  <figcaption>Top 10 empleados por recaudo total 💰.</figcaption>
+  <img src="Img/recaudado.png" alt="Top 10 empleados por monto recaudado" width="800">
+</figure>
